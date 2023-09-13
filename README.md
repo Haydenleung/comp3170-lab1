@@ -1,2 +1,2 @@
 # comp3170-lab1
-Created with CodeSandbox
+Create a news feed app using React
